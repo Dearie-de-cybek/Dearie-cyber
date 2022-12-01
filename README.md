@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dearie-cyber
-- 👀 I’m interested in Javascript and its libraries
-- 🌱 I’m currently learning React and web3.0
-- 💞️ I’m looking to collaborate on web3.0 projects
+- 👀 I’m interested in web 
+- 🌱 I’m currently learning Laravel
+- 💞️ I’m looking to collaborate on php fullstack projects
 - 📫 How to reach me ...eburujacintha@gmail.com
 
 <!---
